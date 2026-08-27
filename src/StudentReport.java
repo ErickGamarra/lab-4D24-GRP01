@@ -1,6 +1,9 @@
 public class StudentReport {
     // Creación de archivo
-    public void imprimorReport() {
+    public void imprimirReport() {
         System.out.println("Student report");
+    }
+    public void imprimirDatos() {
+        System.out.println("Datos del reporte: ");
     }
 }
